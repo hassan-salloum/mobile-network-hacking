@@ -16,7 +16,7 @@ software like Osmocom, srsRAN, OpenLTE with different SDR
 - you will be able to understand ethical hacking in mobile telecommunication (working with different open sources tool to 
 scan ss7), learn how to deal with IMSI catcher to test telecommunication network vulnerability, last one was a joke no 
 its not.
-- Please not, none of these hacking technique mentioned in this open research by myself, it’s up to you to install and take 
+- Please not, none of these hacking technique mentioned in this open research tested by myself, it’s up to you to install and take 
 the risk, try to use a faraday cage.
 
 
