@@ -4,7 +4,9 @@
 Very simple, because I was curious to hack mobile network, so I learn new thing I wrote or copy it to save it for later so I can also at the end share happiness with you. 
 
 ### For  who  this  research?  
-Absolutely  Not  for  beginner,  for  Telecommunication  network  engineer,  for  Pentester  who  have knowledge  in  mobile  network  protocol  and  communication  good  understanding  for  authentication,  attachment,  call  flow etc... 
+Absolutely  Not  for  beginner,  
+for  Telecommunication  network  engineer,  
+for  Pentester  who  have knowledge  in  mobile  network  protocol  and  communication  good  understanding  for  authentication,  attachment,  call  flow etc... 
 
 ### What you will learn from it?  
 - You will understand SS7, GTP, Diameter protocol 
