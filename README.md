@@ -1,12 +1,11 @@
-# Mobile Network Hacking
+### Mobile Network Hacking
+-------------------------------------------------------------------------------------------------------------------------------
+Mobile Network Hacking is a theoratical research that i created because of my curiosity to learn mobile network hacking, i start reading reseach and books in this filed and droped my learning in free-book format to share it with you at the end.
 
-### Why this open free theoretical research? 
-Very simple, because of my curiosity to learn mobile network hacking, i start reading reseach and books in this filed and droped my learning in free-book format to share it with you at the end.
+This research is absolutely not  for  beginner, but sure, for  Telecommunication & network  engineer or Pentester.
 
-### For  who  this  research?  
-Absolutely  Not  for  beginner, but sure, for  Telecommunication & network  engineer or Pentester.
-
-#### What you will learn from it?  
+### What you will learn from it? 
+-------------------------------------------------------------------------------------------------------------------------------
 - You will understand SS7, GTP, Diameter protocol. 
 - You will understand GSM, GPRS, VOIP, LTE Threats.
 - You will be able to hack mobile network on your own responsibility with building IMSI catcher with different open source 
