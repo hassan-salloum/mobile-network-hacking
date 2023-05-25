@@ -16,6 +16,8 @@ This research is absolutely not  for  beginner, but sure, for  Telecommunication
 
 *Please not, none of these hacking technique mentioned in this open research tested by myself, it’s up to you to install and take the risk, try to use a faraday cage.*
 
+Do not forget to donate if this research respond to your need:
+
 <a href="https://www.buymeacoffee.com/vraihack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
