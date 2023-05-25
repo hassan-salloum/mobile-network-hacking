@@ -6,11 +6,13 @@ This research is absolutely not  for  beginner, but sure, for  Telecommunication
 
 ### What you will learn from it? 
 -------------------------------------------------------------------------------------------------------------------------------
-- You will understand SS7, GTP, Diameter protocol. 
-- You will understand GSM, GPRS, VOIP, LTE Threats.
-- You will be able to hack mobile network on your own responsibility with building IMSI catcher with different open source 
-software like Osmocom, srsRAN, OpenLTE with different SDR. 
-- you will be able to understand ethical hacking in mobile telecommunication (working with different open sources tool to scan ss7), learn how to deal with IMSI catcher.
+* Do you want to understand SS7, Sigtran, GTP, Diameter protocols ?
+* Do want to learn how to scan mobile network?
+* Do you want to understand mobile network threats ?
+* Do you want to build the attack scenario to these threats?
+* Do you want to deep your knowledge with Osmocom ?
+* Do you want to build GSM, LTE IMSI catcher ?
+* Do you want learn how to detect IMSI catcher? And more !
 
 *Please not, none of these hacking technique mentioned in this open research tested by myself, it’s up to you to install and take the risk, try to use a faraday cage.*
 
