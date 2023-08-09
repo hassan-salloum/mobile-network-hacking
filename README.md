@@ -1,6 +1,6 @@
 ### Mobile Network Hacking
 -------------------------------------------------------------------------------------------------------------------------------
-Mobile Network Hacking is a theoratical research that i created because of my curiosity to learn mobile network hacking.
+Mobile Network Hacking is a "theoratical resume" that i created because of my curiosity to learn mobile network hacking.
 This research is absolutely not  for  beginner, but sure, for  Telecommunication & network  engineer or telecom Pentester.
 
 ### What you will learn from it? 
