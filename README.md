@@ -1,4 +1,4 @@
-### Mobile Network Hacking (On-Going improvment will start this year for this research)
+### Mobile Network Hacking (On-Going improvment will start year 2024 for this research)
 -------------------------------------------------------------------------------------------------------------------------------
 Mobile Network Hacking is a "theoratical resume" that i created because of my curiosity to learn mobile network hacking.
 This resume is absolutely not  for  beginner, but sure, for  Telecommunication & network  engineer or telecom Pentester.
