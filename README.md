@@ -1,4 +1,4 @@
-### Mobile Network Hacking
+### Mobile Network Hacking (On-Going improvement for this research 01/06/2024)
 -------------------------------------------------------------------------------------------------------------------------------
 Mobile Network Hacking is a "theoratical resume" that i created because of my curiosity to learn mobile network hacking.
 This resume is absolutely not  for  beginner, but sure, for  Telecommunication & network  engineer or telecom Pentester.
